@@ -1,0 +1,21 @@
+main{
+display:flex;
+flex-direction: column;
+flex-wrap: nowrap;
+align-content: center;
+justify-content: center;
+align-items: center;
+}
+
+#bejegyzes{
+    width:100%;
+}
+
+#bejegyzes td{
+
+    max-width:100%;
+}
+
+#bejegyzes th{
+    background-color: grey;
+}
